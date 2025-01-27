@@ -8,4 +8,8 @@ Flour for rolling and shaping dough
 some peper for taste
 give it some love
 hand of olives optional
+<<<<<<< HEAD
 add red pepper
+=======
+add red peper
+>>>>>>> spicy-experiments

@@ -5,4 +5,9 @@ Ingrediënten:
 - Verse basilicum
 - teaspoon oliveoil
 - add kaas
+<<<<<<< HEAD
 - add red pepper
+=======
+- add red pepper
+- add green pepper
+>>>>>>> spicy-experiments
